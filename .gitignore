@@ -1,0 +1,14 @@
+# Python
+ml-env/
+__pycache__/
+*.pyc
+
+# Jupyter 
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# Data
+*.csv
+*.zip
