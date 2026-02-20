@@ -6,6 +6,9 @@ __pycache__/
 # Jupyter 
 .ipynb_checkpoints/
 
+# VS Code
+.vscode/
+
 # Node
 node_modules/
 
