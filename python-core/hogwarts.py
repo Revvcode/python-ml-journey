@@ -4,6 +4,8 @@
 #Dict helps us store key value pairs, denoted by name_of_dict{}, after each key value pair at the end use ","
 #for loop in dict shows only KEYS, to access values use name_of_dict[variable], where variable is being iterated
 #python supports None keyword which denotes absence of value
+#the variable used in a loop, takes the value of the element
+
 students = [
     {"name": "Harry", "house": "Gryffindor" , "patronus": "Stag" },
     {"name": "Hermione", "house": "Gryffindor" , "patronus": "Otter" },
