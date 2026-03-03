@@ -1,3 +1,4 @@
+#you can return a list or dictionary based on need
 def main():
     student = get_student()
     print(f"{student[0]} from {student[1]}")
