@@ -1,6 +1,7 @@
 #you can return a list or dictionary based on need
 #classes help you define a blueprint to create objects, class is bascially a custom data type
-# raise helps make our own errors
+#raise helps make our own errors
+#classes help make it easier for users to skip repeated code blocks
 import re
 class Student:
     def __init__(self,name,house):
